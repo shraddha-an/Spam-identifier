@@ -1,0 +1,8 @@
+In its original form, the dataset is made available as a data file with the extension '.data'
+
+To use the data in our code, we will have to change the file type, as:
+1) Open the spambase.data file in Excel.
+2) Click on the column 'A' so as to select the entire first column.
+3) Click on "Text to Columns" button under the 'Data' tab.
+4) Select the following in the series of dialog boxes: "Delimited" -> "Comma" -> "Finish".
+5) Select "Save As.." option from the File drop-down menu and save it as a .csv file.
