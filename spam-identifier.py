@@ -1,3 +1,4 @@
+# Please make sure you convert the original spambase.data file into .csv format. Check out convert-file-type in my repo for instructions.
 # Identifying if an email is spam or not and visualizing their volumes
 
 # Importing libraries
